@@ -1,3 +1,6 @@
+Hey, Let's contribute to build this web-app.
+This is one the clone of notion templete....!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
